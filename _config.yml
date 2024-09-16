@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?hl=ja&user=dkaV8boAAAAJ
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/takagi171832"
+  github           : takagi171832
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : tatsunaritakagi # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
