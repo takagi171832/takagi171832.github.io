@@ -31,10 +31,29 @@ Education
 
 Research and Work Experiences
 -----
-- October 2023 - present  
+- Jun 2025 - present
+**SB intuitions**
+  - Research internship
+  - Worked on Speech processing, Speech Foundation Model
+  - Mentor:Yusuke Fujita, Yui Sudo
+  
+- July 2025 - present
+**NTT Communication Science Laboratories**
+  - Visiting researcher
+  - Worked on end-to-end speech recognition and domain adaptaion
+  - Mentor: Atsunori Ogawa
+ 
+- October 2024 - May 2025
+**Kotoba Technologies**
+  - Research internship
+  - Worked on speech processing
+  - Mentor: Jungo Kasai, Noriyuki Kojima
+    
+- October 2023 - May 2025  
 **Fusic Co.**
   - Research Engineer internship
   - Worked on speech processing
+  - Mentor: Kai Washizaki, Beomseok Han
 
 - March 2022 - present  
 **NTT Communication Science Laboratories**
