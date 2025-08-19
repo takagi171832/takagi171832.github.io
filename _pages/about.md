@@ -31,19 +31,19 @@ Education
 
 Research and Work Experiences
 -----
-- Jun 2025 - present
+- Jun 2025 - present  
 **SB intuitions**
   - Research internship
   - Worked on Speech processing, Speech Foundation Model
   - Mentor:Yusuke Fujita, Yui Sudo
   
-- July 2025 - present
+- July 2025 - present  
 **NTT Communication Science Laboratories**
   - Visiting researcher
   - Worked on end-to-end speech recognition and domain adaptaion
   - Mentor: Atsunori Ogawa
  
-- October 2024 - May 2025
+- October 2024 - May 2025  
 **Kotoba Technologies**
   - Research internship
   - Worked on speech processing
