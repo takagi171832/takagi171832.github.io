@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am 1st-year PhD student at [Spoken Language Processing Laboratory (Kitaoka Lab)](https://slp.cs.tut.ac.jp/), [Toyohashi Unversity of Technology](https://www.tut.ac.jp/english/), under the supervision of Prof. [Norihide Kitaoka](https://sites.google.com/site/norihidekitaokashome/).  
+I am 2nd-year PhD student at [Spoken Language Processing Laboratory (Kitaoka Lab)](https://slp.cs.tut.ac.jp/), [Toyohashi Unversity of Technology](https://www.tut.ac.jp/english/), under the supervision of Prof. [Norihide Kitaoka](https://sites.google.com/site/norihidekitaokashome/).  
 I am interested in speech recognition and natural language processing.  
 I am looking for visiting student and internship opportunities.
 
