@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am 2nd-year PhD student at [Spoken Language Processing Laboratory (Kitaoka Lab)](https://slp.cs.tut.ac.jp/), [Toyohashi Unversity of Technology](https://www.tut.ac.jp/english/), under the supervision of Prof. [Norihide Kitaoka](https://sites.google.com/site/norihidekitaokashome/).  
+I am 3nd-year PhD student at [Spoken Language Processing Laboratory (Kitaoka Lab)](https://slp.cs.tut.ac.jp/), [Toyohashi Unversity of Technology](https://www.tut.ac.jp/english/), under the supervision of Prof. [Norihide Kitaoka](https://sites.google.com/site/norihidekitaokashome/).  
 I am interested in speech recognition and natural language processing.  
-I am looking for visiting student and internship opportunities.
-
+I'm currently looking for a job after graduation.
 
 
 Education
@@ -17,37 +16,37 @@ Education
 - April 2024 - present  
 **PhD of Engineering**
   - Research Topic: End-to-end speech recognition
-  - Supervisor: Norihide Kitaoka
+  - Supervisor: Prof. Norihide Kitaoka
 
 - April 2022 - March 2024  
 **Master of Engineering**
   - Research Topic: End-to-end speech recognition
-  - Supervisor: Norihide Kitaoka
+  - Supervisor: Prof. Norihide Kitaoka
 
 - April 2017 - March 2022  
 **Bachelor of Engineering**
   - Research Topic: Statistical machine learning, Bayesian inference
-  - Supervisor: Kazuho Watanabe
+  - Supervisor: Prof. Kazuho Watanabe
 
 Research and Work Experiences
 -----
-- Jun 2025 - present
+- Jun 2025 - present  
 **SB intuitions**
   - Research internship
-  - Worked on Speech processing, Speech Foundation Model
-  - Mentor:Yusuke Fujita, Yui Sudo
+  - Worked on Speech processing, Speech Foundation Models
+  - Mentor: Dr. Yusuke Fujita, Dr. Yui Sudo
   
-- July 2025 - present
+- July 2025 - september 2025  
 **NTT Communication Science Laboratories**
   - Visiting researcher
   - Worked on end-to-end speech recognition and domain adaptaion
-  - Mentor: Atsunori Ogawa
+  - Mentor: Dr. Atsunori Ogawa
  
-- October 2024 - May 2025
+- October 2024 - May 2025  
 **Kotoba Technologies**
   - Research internship
   - Worked on speech processing
-  - Mentor: Jungo Kasai, Noriyuki Kojima
+  - Mentor: Dr. Jungo Kasai, Dr. Noriyuki Kojima
     
 - October 2023 - May 2025  
 **Fusic Co.**
@@ -55,11 +54,11 @@ Research and Work Experiences
   - Worked on speech processing
   - Mentor: Kai Washizaki, Beomseok Han
 
-- March 2022 - present  
+- March 2022 - March 2026  
 **NTT Communication Science Laboratories**
   - Collaborative research
   - Worked on end-to-end speech recognition and domain adaptaion
-  - Mentor: Atsunori Ogawa
+  - Mentor: Dr. Atsunori Ogawa
 
 - April 2021 - March 2024  
 [**Garage Coffee Company**](https://garagecoffeecompany.jp/)
@@ -79,8 +78,14 @@ Grants
 
 Activities/Talks/Others
 -----
+- [**ICASSP 2025 Paper Reading**](https://icasspeech.connpass.com/event/349764/)
+  - [paper](https://ieeexplore.ieee.org/abstract/document/10890852):Automatic Parkinson’s disease detection from speech: Layer selection vs adaptation of foundation models
 - [**ICASSP 2024 Paper Reading**](https://icasspeech.connpass.com/event/319113/)
   - [paper](https://arxiv.org/abs/2312.17279): Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition (NVIDIA)
+- [Acoustical Society of Japan, ASJ 2025](https://acoustics.jp/awards/student/)
+  - Outstanding Student Presentation Award
+- [**Interspeech 2025 Speech Accessibility Project Challenge**](https://eval.ai/web/challenges/challenge-page/2362/overview)
+  - 3rd Place🥉
 - [**Hack Aichi+2023**](https://jellyware.jp/hackaichi/2023/)
-  - Excellence Award
+  - Excellence Award🥈
   - Company Prize: Higashiyama Corporation 
