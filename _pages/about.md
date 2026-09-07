@@ -89,3 +89,8 @@ Activities/Talks/Others
 - [**Hack Aichi+2023**](https://jellyware.jp/hackaichi/2023/)
   - Excellence Award🥈
   - Company Prize: Higashiyama Corporation 
+
+Open Models
+-----
+- [**Nest-Ja**](https://huggingface.co/collections/sbintuitions/nest-ja)
+  - 
